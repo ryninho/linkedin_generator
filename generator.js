@@ -106,6 +106,8 @@ const flatter = () => {
     'Head of APAC Growth',
     'In-House Tea Specialist',
     'VP of Sports Metaphors',
+    'VP of Lofi Beats',
+    'Vibe Shift Consultant',
     'Senior Reply-All Consultant',
     'Director of Snacks'
   ])
